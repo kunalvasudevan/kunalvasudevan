@@ -1,7 +1,7 @@
 ### Hi My Name is Kunal Vasudevan 👋
 
 
-- 🔭 I’m currently Studing for GATE and do competative coding 
+- 🔭 I’m currently Studing for BTech Computer Science 3rd year ; preparing for GATE and do competitive coding 
 - 🌱 I’m currently learning C,C++,DS, ALGO and other subject
 - 👯 I’m looking to collaborate on Diffrent Mainstream Project 
 - 🤔 I’m looking for help with who know full stack development
