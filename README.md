@@ -1,9 +1,5 @@
 ### Hi My Name is Kunal Vasudevan 👋
 
-<!--
-**kunalvasudevan/kunalvasudevan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently Studing for GATE and do competative coding 
 - 🌱 I’m currently learning C,C++,DS, ALGO and other subject
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/kunal-vasudevan-a04b30197/ ; kunalvasudevan10@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: My Name is Kunal Vasudevan, You killed my ****** prepare to die (MOVIE DIALOGUE)  
--->
+
