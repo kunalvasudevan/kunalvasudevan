@@ -56,14 +56,5 @@ I am a Data Scientist. I have 2 years of Industrial Experience. Love to discuss 
 </p>
 </ul>
 </details>
-#
-
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=kunalvasudevan.kunalvasudevan" alt="visitor badge"/>
-</p>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
 
 </div>
