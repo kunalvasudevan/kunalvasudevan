@@ -35,26 +35,3 @@ I am a Data Scientist. I have 2 years of Industrial Experience. Love to discuss 
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 
-
-
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=kunalvasudevan&show_icons=true&theme=radical" width = 400>
-  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=kunalvasudevan&theme=dark&hide_border=true" width = 400>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kunalvasudevan&layout=compact" width = 400>
-</p>
-
-<details>
-  <br />
-  <summary><b>Links
-</b></summary>
-  	<ul>
-<p align="center">
-  <a href=""><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="SourceWeb"/></a>
-  <a href="mailto:kunalvasudevan10@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
-  <a href="https://www.linkedin.com/in/kunal-vasudevan-a04b30197/"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-  <a href="https://discord.com/channels/@me/902428668037566465"><img src="https://img.icons8.com/color/96/000000/discord-logo.png" alt="discord"/></a>
-</p>
-</ul>
-</details>
-
-</div>
