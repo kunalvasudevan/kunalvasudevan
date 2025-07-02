@@ -3,7 +3,7 @@
 <img align="right" height="50" width="75" alt="" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" />
 
 Hello everyone
-I am an undergraduate pursuing Computer Science specialization in Cyber security from [Kalasalingam Academy Of Research and Education ](https://kalasalingam.ac.in/site/),Krishnan Koil ,Tamil Nadu. I am a Machine Learning and Backhand coding enthusiast. Eager to contribute and solve any coding doubt through my hard work and organizational skills. Love to discuss the new arising techs. Strong communication and leadership skills.
+I am a Data Scientist. I have 2 years of Industrial Experience. Love to discuss the new arising techs. Strong communication and leadership skills. Under my Leadership skills our team have won many Hackathon’s and other competitions. Our Team also got the Best project Award in 2024.
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kunal-vasudevan-a04b30197/)
@@ -14,14 +14,12 @@ I am an undergraduate pursuing Computer Science specialization in Cyber security
 ### Hi My Name is Kunal Vasudevan 👋
   
 
-- 🔭 I’m currently Studing for BTech Computer Science 3rd year ; preparing for GATE and do competitive coding 
-- 🌱 I’m currently learning C,C++,DS, ALGO and other subject
+- 🔭 I’m currently working in for Volkswagen Group Digital Solutions
 - 👯 I’m looking to collaborate on Diffrent Mainstream Project 
-- 🤔 I’m looking for help with full stack developer in my project.
 - 💬 Ask me about my goal and my strength and don't ask my weakness it hard to find
 - 📫 How to reach me: https://www.linkedin.com/in/kunal-vasudevan-a04b30197/ ; kunalvasudevan10@gmail.com
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: My Name is Kunal Vasudevan, You killed my ****** prepare to die (MOVIE DIALOGUE) 
+ 
 ```
 ## ⚡ Technologies
 
